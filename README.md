@@ -20,7 +20,7 @@ $ chmod +x decode_morse.py
 ### 2.3 Como executar o programa
 
 No terminal, ir para o diretório onde o programa está localizado 
-e executar conforme abaixo:  
+e executar conforme abaixo.  
 opção 1:
 ```
 $ python decode_morse.py '<morse code>'
@@ -36,15 +36,15 @@ HEY JUDE
 ```
 ## 3. Testes de verificação do programa
 
-Os seguintes testes foram implementados para verificacao da
+Os seguintes testes foram implementados para verificação da
 correta execução do programa:
 
-* Decodificacao de uma unica palavra
-* Decodificacao de multiplas palavras
+* Decodificacao de uma única palavra
+* Decodificacao de múltiplas palavras
 * Decodificacao de números
-* Decodificacao de letras e numeros juntos
-* Decodificacao de codigo morse invalido
-* Decodificacao com espacos extras
+* Decodificacao de letras e números juntos
+* Decodificacao de codigo morse inválido
+* Decodificacao com espaços extras
 
 ### 3.1 Instruções para rodar os testes
 
@@ -80,7 +80,7 @@ Ran 6 tests in 0.000s
 
 OK
 ```
-Para executar um teste especifico especificar o caminho completo, exemplo abaixo
+Para executar um teste específico, utilizar o caminho completo, exemplo abaixo.
 ```
 $ python -m unittest -v test_decode_morse.TestMorseCodeToText.test_single_word
 test_single_word (test_decode_morse.TestMorseCodeToText)
