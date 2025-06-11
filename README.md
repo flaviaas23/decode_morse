@@ -20,7 +20,7 @@ $ chmod +x decode_morse.py
 ### 2.3 Como executar o programa
 
 No terminal, ir para o diretório onde o programa está localizado 
-e executar conforme abaixo:
+e executar conforme abaixo:  
 opção 1:
 ```
 $ python decode_morse.py '<morse code>'
