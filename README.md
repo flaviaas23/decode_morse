@@ -28,11 +28,12 @@ $ python decode_morse.py '<morse code>'
 opção 2:
 ```
 $./decode_morse.py '<morse code>'
-````
+```
 Exemplo:
+```
 $ ./morse-code ".... . -.-- .--- ..- -.. ."
 HEY JUDE
-
+```
 ## 3. Testes de verificação do programa
 
 Os seguintes testes foram implementados para verificacao da
@@ -94,7 +95,7 @@ OK
 ## Código Morse
 
 Segue abaixo, o código Morse para letras e números que
-foi utilizado no desafio:
+foi utilizado no desafio:  
 A .-   
 B -...   
 C -.-.   
