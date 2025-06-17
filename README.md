@@ -31,7 +31,7 @@ $./decode_morse.py '<morse code>'
 ```
 Exemplo:
 ```
-$ ./decode_morse.py ".... . -.-- .--- ..- -.. ."
+$ ./decode_morse.py ".... . -.--   .--- ..- -.. ."
 HEY JUDE
 ```
 ## 3. Testes de verificação do programa
